@@ -1,0 +1,13 @@
+C:\Users\Carlos Castiblanco\source\repos\ClasesyMetodosUNADBuild\ClasesyMetodosUNAD\bin\Debug\netcoreapp3.1\ClasesyMetodosUNAD.exe
+C:\Users\Carlos Castiblanco\source\repos\ClasesyMetodosUNADBuild\ClasesyMetodosUNAD\bin\Debug\netcoreapp3.1\ClasesyMetodosUNAD.deps.json
+C:\Users\Carlos Castiblanco\source\repos\ClasesyMetodosUNADBuild\ClasesyMetodosUNAD\bin\Debug\netcoreapp3.1\ClasesyMetodosUNAD.runtimeconfig.json
+C:\Users\Carlos Castiblanco\source\repos\ClasesyMetodosUNADBuild\ClasesyMetodosUNAD\bin\Debug\netcoreapp3.1\ClasesyMetodosUNAD.runtimeconfig.dev.json
+C:\Users\Carlos Castiblanco\source\repos\ClasesyMetodosUNADBuild\ClasesyMetodosUNAD\bin\Debug\netcoreapp3.1\ClasesyMetodosUNAD.dll
+C:\Users\Carlos Castiblanco\source\repos\ClasesyMetodosUNADBuild\ClasesyMetodosUNAD\bin\Debug\netcoreapp3.1\ClasesyMetodosUNAD.pdb
+C:\Users\Carlos Castiblanco\source\repos\ClasesyMetodosUNADBuild\ClasesyMetodosUNAD\obj\Debug\netcoreapp3.1\ClasesyMetodosUNAD.csprojAssemblyReference.cache
+C:\Users\Carlos Castiblanco\source\repos\ClasesyMetodosUNADBuild\ClasesyMetodosUNAD\obj\Debug\netcoreapp3.1\ClasesyMetodosUNAD.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Castiblanco\source\repos\ClasesyMetodosUNADBuild\ClasesyMetodosUNAD\obj\Debug\netcoreapp3.1\ClasesyMetodosUNAD.AssemblyInfoInputs.cache
+C:\Users\Carlos Castiblanco\source\repos\ClasesyMetodosUNADBuild\ClasesyMetodosUNAD\obj\Debug\netcoreapp3.1\ClasesyMetodosUNAD.AssemblyInfo.cs
+C:\Users\Carlos Castiblanco\source\repos\ClasesyMetodosUNADBuild\ClasesyMetodosUNAD\obj\Debug\netcoreapp3.1\ClasesyMetodosUNAD.dll
+C:\Users\Carlos Castiblanco\source\repos\ClasesyMetodosUNADBuild\ClasesyMetodosUNAD\obj\Debug\netcoreapp3.1\ClasesyMetodosUNAD.pdb
+C:\Users\Carlos Castiblanco\source\repos\ClasesyMetodosUNADBuild\ClasesyMetodosUNAD\obj\Debug\netcoreapp3.1\ClasesyMetodosUNAD.genruntimeconfig.cache
